@@ -1,0 +1,7 @@
+src/__pycache__
+notebooks/.ipynb_checkpoints
+data/
+tests/
+project_description.md
+project_state.md
+.codex
